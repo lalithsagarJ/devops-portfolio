@@ -1,5 +1,5 @@
 ## **📌 README.md for DevOps Portfolio**
-```md
+```
 # 🚀 DevOps Portfolio - Lalith Sagar J
 
 Welcome to my **DevOps Portfolio**! This project showcases my **DevOps expertise** through an interactive and fully responsive portfolio website.
@@ -37,10 +37,11 @@ This portfolio highlights my **skills, projects, certifications, and work experi
 ✅ **Fast & Secure Hosting** – Deployed on Vercel  
 
 ---
-
+```
+```
 ## **🔧 Setup & Installation**
 ### **1️⃣ Clone the Repository**
-```sh
+```
 git clone https://github.com/yourusername/devops-portfolio.git
 cd devops-portfolio
 ```
