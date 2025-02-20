@@ -1,5 +1,3 @@
-It looks like I can't directly inspect the extracted files due to a system error. However, I can still generate a **professional and well-structured `README.md`** for your **DevOps portfolio** based on standard best practices.
-
 ---
 
 ## **📌 README.md for Your DevOps Portfolio**
