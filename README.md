@@ -43,8 +43,9 @@ This portfolio highlights my **skills, projects, certifications, and work experi
 ```sh
 git clone https://github.com/yourusername/devops-portfolio.git
 cd devops-portfolio
-
-copy this content to .env
+```
+### copy this content to .env
+```
 // README
 // This is only a .env example
 // Do not change this file, adding your GITHUB TOKEN here!
