@@ -109,15 +109,3 @@ This project is **MIT licensed**. You are free to use and modify it.
 
 ### **🎉 Thank you for visiting my portfolio!**
 If you like my work, ⭐ the repo and share it! 🚀🔥
-```
-
----
-
-### **🔹 Next Steps**
-1️⃣ **Replace all placeholder URLs (`your-vercel-url`, `your-image-url`)** with your actual portfolio and image links.  
-2️⃣ **Customize any sections** based on your project details.  
-3️⃣ **Commit and push `README.md`** to your GitHub repo.
-
----
-
-🚀 **Now you have a clean and professional `README.md`!** Let me know if you want modifications! 🎨😊
