@@ -1,5 +1,3 @@
----
-
 ## **📌 README.md for Your DevOps Portfolio**
 ```md
 # 🚀 DevOps Portfolio - Lalith Sagar J
