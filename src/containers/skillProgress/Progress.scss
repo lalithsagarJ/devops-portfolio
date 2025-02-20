@@ -1,0 +1,88 @@
+@import "../../_globalColor";
+
+/* 🟢 Main Layout Fix */
+.skills-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 85%;
+  padding: 40px 20px;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+
+/* 🟢 Left Side: Proficiency */
+.skills-left {
+  flex: 1;
+  padding-right: 40px; /* Adds spacing between Proficiency & Image */
+}
+
+/* 🟢 Proficiency Section */
+.skills-bar {
+  margin-bottom: 50px; /* Extra space before Additional Skills */
+}
+
+/* 🟢 Right Side: Image + Additional Skills */
+.skills-right {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers the image */
+  justify-content: center;
+}
+
+/* 🟢 Image Adjustments */
+.skills-image {
+  width: 120%;
+  max-width: 500px; /* Increase image size */
+  height: auto;
+  margin-bottom: 30px; /* Adds space between image & Additional Skills */
+  display: flex;
+  justify-content: center;
+}
+
+.skills-image img {
+  width: 100%;
+  max-width: 450px; /* Prevents image from getting too large */
+  height: auto;
+}
+
+/* 🟢 Additional Skills */
+.additional-skills {
+  text-align: center; /* Align text center */
+  width: 80%;
+}
+
+/* 🟢 Progress Bar */
+.meter {
+  height: 18px;
+  background: $progressBarBackground;
+  border-radius: 25px;
+}
+.meter > span {
+  display: block;
+  height: 100%;
+  background-color: $progressBarSpanBG;
+  border-radius: 20px;
+  transform: translateZ(0);
+}
+
+/* 🟢 Responsive Fixes */
+@media (max-width: 1024px) {
+  .skills-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  .skills-left {
+    padding-right: 0; /* Remove spacing for small screens */
+  }
+  .additional-skills {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .skills-image {
+    max-width: 300px; /* Prevents large images on mobile */
+  }
+}
