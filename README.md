@@ -38,7 +38,6 @@ This portfolio highlights my **skills, projects, certifications, and work experi
 
 ---
 ```
-```
 ## **🔧 Setup & Installation**
 ### **1️⃣ Clone the Repository**
 ```
